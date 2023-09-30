@@ -1,0 +1,25 @@
+.div-photo{
+    overflow: hidden;
+    border-radius: 1rem;
+}
+
+.div-photo__profile{
+    width: 6rem;
+    height: 6rem;
+    margin: 1rem;
+}
+
+.div-photo__square{
+    width: 7rem;
+    height: 7rem;
+}
+
+.div-photo__width{
+    width: 14.5rem;
+    height: 7rem;
+}
+
+.div-photo__tall{
+    height: 14.5rem;
+    width: 7rem;
+}

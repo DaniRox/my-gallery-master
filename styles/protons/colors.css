@@ -1,0 +1,22 @@
+:root{
+    --white: #ffffff;
+    --dark-gray: #4E5150;
+    --gray: #A9A9A9;
+    --smoke: #E5E5E5;
+}
+
+.background--white{
+    background-color: var(--white);
+}
+
+.background--smoke{
+    background-color: var(--smoke);
+}
+
+.color--dark-gray{
+    color: var(--dark-gray);
+}
+
+.color--gray{
+    color: var(--gray);
+}
