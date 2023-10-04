@@ -25,7 +25,6 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
