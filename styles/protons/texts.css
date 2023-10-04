@@ -9,13 +9,13 @@
 }
 
 .txt--s{
-    font-size: 0.8rem;
-}
-
-.txt--m{
     font-size: 0.9rem;
 }
 
-.txt--l{
+.txt--m{
     font-size: 1rem;
+}
+
+.txt--l{
+    font-size: 1.1rem;
 }
