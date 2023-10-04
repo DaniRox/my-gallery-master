@@ -1,6 +1,6 @@
 .photo-profile{
     overflow: hidden;
-    border-radius: 1.5rem;
+    border-radius: 1.6rem;
     width: 8.5rem;
     height: 8.5rem;
 }
@@ -23,3 +23,4 @@
 .photo4{
     grid-row-start: span 2;
 }
+
