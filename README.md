@@ -50,5 +50,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [DaniRox Portfolio](https://danirox.github.io/DaniRox-Portfolio/)
+- Website [DaniRox Portfolio](https://portafolio-web.danirox.site/)
 - GitHub [@DaniRox](https://github.com/DaniRox)
